@@ -1,11 +1,12 @@
 # Portfolio1
-This is my first portfolio in Moringa School https://carineizere.github.io/Portfolio1/
+## Description
+This is my first portfolio in Moringa School 2018 https://carineizere.github.io/Portfolio1/
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
 
 ## Prerequisites: 
 things you need to install the software and how to install them
 github , atom: visual studio code , Terminal , ubuntu software
-
+I used html and Markdown language
 ## Installing:
 \ubuntu:
 GET PREPARED,
@@ -72,9 +73,9 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-GNU General Public License v3.0
+GNU General Public License v3.0 
 https://choosealicense.com/licenses/gpl-3.0/
-opyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
