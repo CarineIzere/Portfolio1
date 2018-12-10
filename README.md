@@ -79,7 +79,9 @@ https://choosealicense.com/licenses/gpl-3.0/
 copyright (C) 2018 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
- ### GNU General Public License v3.0 Copyright ©️carine Izere 2018
+ ### GNU General Public License v3.0 Copyright ©️carine Izere 2018 this is designed to everyone
+ ##End
+
 
 
 
