@@ -2,7 +2,7 @@
 ## by carine Izere
 ## Description
 This is my first portfolio in Moringa School 2018 https://carineizere.github.io/Portfolio1/
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes access this project on GITHUB at https://github.com/CarineIzere/Portfolio1 
 
 ## Prerequisites: 
 things you need to install the software and how to install them
@@ -79,11 +79,12 @@ https://choosealicense.com/licenses/gpl-3.0/
 copyright (C) 2018 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
- ### GNU General Public License v3.0 Copyright ©️carine Izere 2018 this is designed to everyone 
- ##End
+ ### GNU General Public License v3.0 Copyright ©️carine Izere 2018 this is designed to everyone  
 
  ## Acknowledgments
- It will be a great pressure for anyone willused my code and must get a tip such as a airtime for communication, pens, bombo etc 
+ It will be a great pressure for anyone willused my code and must get a tip such as a airtime for communication, pens, bombo etc. aaah it will be wooooooow!
+
+
 
 
 
